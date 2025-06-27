@@ -38,7 +38,7 @@ This script is designed to test for race condition vulnerabilities by sending mu
 
 Install with:
 
-pip install requirements.txt
+`pip install requirements.txt`
 
 #### Usage
 
